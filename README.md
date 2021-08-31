@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Real-parth-khandelwal
+- 👀 I’m interested in python coding (well i am a newbie)
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing just sleep
+- 📫 Uh can reach me on github
